@@ -1,0 +1,10 @@
+Package: keystone
+Type: Package
+Title: Genomics pipelines from R
+Version: 0.1
+Date: 2016-03-08
+Author: Daniel Vera vera@genomics.fsu.edu
+Maintainer: Daniel Vera <vera@genomics.fsu.edu>
+Description: Execute genomic pipelines in the shell from R
+Depends: gplots, parallel, tools, gtools, readr, conifur, gyro, converge, rubber
+License: MIT Lisence
